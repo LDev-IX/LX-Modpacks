@@ -1,1 +1,3 @@
-
+Modpack name
+modpack version
+modpack location
