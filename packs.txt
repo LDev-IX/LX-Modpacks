@@ -1,1 +1,1 @@
-Modpack name+modpack version+modpack location|
+1.12.2+The-Agony-Pack+modpack location|
