@@ -1,1 +1,1 @@
-1.12.2|The-Agony-Pack|https://github.com/LDev-IX/LX-Modpacks/blob/main/The-Agony-Pack.7z?raw=true|*|*|*|*|*|*|*|*|*|*|*|*
+1.12.2|The-Agony-Pack|https://github.com/LDev-IX/LX-Modpacks/releases/download/TAP/The-Agony-Pack.7z|*|*|*|*|*|*|*|*|*|*|*|*
