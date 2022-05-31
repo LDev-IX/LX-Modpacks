@@ -1,1 +1,1 @@
-1.12.2|The-Agony-Pack|https://github.com/LDev-IX/LX-Modpacks/releases/download/TAP/The-Agony-Pack.7z|*|*|*|*|*|*|*|*|*|*|*|*
+1.12.2|The-Agony-Pack|https://github.com/LDev-IX/LX-Modpacks/releases/download/TAP/The-Agony-Pack.7z|1.16.5|The-New-Age|https://github.com/LDev-IX/LX-Modpacks/releases/download/The-New-Age/The-New-Age.7z|*|*|*|*|*|*|*|*|*
